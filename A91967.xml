@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Manchester being a perfect relation of the passages which hapned there, between the Lord Strange, and the commissioners for the militia. Together with the occasion, and other circumstances of their skirmishing, and the number, and state of those which were slain and wounded. As also how the magazine for that county is disposed of. Sent in a letter from M. Jo. Ronsgore, an eye-witnesse, and an inhabitant of the said town of Manchester.</title>
+            <author>Ronsgore, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91967</idno>
+            <idno type="STC">Wing R1917</idno>
+            <idno type="STC">Thomason E108_3</idno>
+            <idno type="STC">ESTC R22121</idno>
+            <idno type="EEBO-CITATION">99871595</idno>
+            <idno type="PROQUEST">99871595</idno>
+            <idno type="VID">124007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124007)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E108[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Manchester being a perfect relation of the passages which hapned there, between the Lord Strange, and the commissioners for the militia. Together with the occasion, and other circumstances of their skirmishing, and the number, and state of those which were slain and wounded. As also how the magazine for that county is disposed of. Sent in a letter from M. Jo. Ronsgore, an eye-witnesse, and an inhabitant of the said town of Manchester.</title>
+                  <author>Ronsgore, John.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>July 23. Printed for T. N.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: John Ronsgore. 16. July. 1642.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Derby, James Stanley, --  Earl of, 1607-1651.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Manchester (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124007:1" rendition="simple:additions"/>
+            <p>NEWS FROM MANCHESTER</p>
+            <p>Being A perfect Relation of the paſſages, which hapned there, between the Lord <hi>Strange,</hi> and the Commiſſioners for the MILITIA.</p>
+            <p>Together with the occaſion, and other circumſtances of their skirmiſhing, and the number, and ſtate of thoſe which were ſlain and wounded.</p>
+            <p>As alſo how the Magazine for that County is diſpoſed of.</p>
+            <p>Sent in a Letter from M. <hi>Jo. Ronſgore,</hi> an eye-witneſſe, and an Inhabitant of the ſaid Town of <hi>Mancheſter.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 23. Printed for <hi>T. N.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:124007:2"/>
+            <pb n="3" facs="tcp:124007:2"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y humble reſpects unto you, I have not any thing to write unto you about, ſave onely to acquaint you with ſome ſad paſſages that hapned yeſternight, here at <hi>Man<g ref="char:EOLhyphen"/>cheſter.</hi>
+            </p>
+            <p>My Lord <hi>Strange</hi> yeſterday, ſix miles from <hi>Mancheſter, viz.</hi> at <hi>Bury,</hi> by virtue of the Commiſ<g ref="char:EOLhyphen"/>ſion of Array, ſummoned all per<g ref="char:EOLhyphen"/>ſons of able body, betwixt ſixteen and ſixty yeers of age, to meet
+<pb n="4" facs="tcp:124007:3"/>him therewith ſuch Arms as they had, which was performed accor<g ref="char:EOLhyphen"/>dingly, whereof 2000 went forth of <hi>Mancheſter</hi> and the neighbour<g ref="char:EOLhyphen"/>ing villages.</p>
+            <p>After in the evening, about four of the clock, the Townſmen of <hi>Mancheſter</hi> hearing my Lord was coming to lodge all night at Sir <hi>Alexander Radcliffs</hi> houſe, went to meet him on the way, and invited him to take a banquet at <hi>Mancheſter,</hi> which his Lordſhip courtuouſly accepted of; and a<g ref="char:EOLhyphen"/>bout five of the Clock came into <hi>Mancheſter,</hi> attended with about 12<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> horſe well accoutered.</p>
+            <p>My Lord and the Townſmen were all agreed about the Maga<g ref="char:EOLhyphen"/>zine,
+<pb n="5" facs="tcp:124007:3"/>his Lordſhip promiſing the Town to joyn with them in any reaſonable thing they would pro<g ref="char:EOLhyphen"/>poſe; and withall, that he would ſtay with them till Monday morning: But in the mean while Captain <hi>Holcroft,</hi> Sir <hi>Thomas Stan<g ref="char:EOLhyphen"/>ley,</hi> and your Coſin <hi>Birch,</hi> who were appointed Commiſsioners for the Militia, began to ſtrike up their Drum, to put the Militia in execution, in another part of the Town; which when my Lord <hi>Strange,</hi> and my Lord <hi>Mollineux</hi> heard, they came and met them, and ſome blows paſſed on both ſides, but two men of your Coſin <hi>Birch</hi> his Company are ſhot, one of which, dyed this morning and
+<pb n="6" facs="tcp:124007:4"/>nine more are mortally wounded. There are on my Lord <hi>Strange</hi> his ſide, ſome eleven or twelve men wounded mortally; your Coſin <hi>Birch</hi> was ſhot at twice, yet eſcaped with ſome few blows, by means of a Coach that ſtood in the Street.</p>
+            <p>The Townſmen are all gone to my Lord, and to Sir <hi>Alexander Radeliffs</hi> houſe, this morning to diſavow the quarrell, and to in<g ref="char:EOLhyphen"/>treat his Lordſhip to joyn with them, to expell Captain <hi>Holcroft</hi> and the reſt of the Town; That upon ſome private grudges, would have occaſioned a generall quarrell betwixt his Lordſhip and the Town? What the iſſue
+<pb n="7" facs="tcp:124007:4"/>will be, God beſt knows; But I hope all wil be well, for my Lord and the chief of the Town are all agreed. I made bold to write, be<g ref="char:EOLhyphen"/>cauſe I beleeve you my perhaps hear a more terrible relation then is true.</p>
+            <closer>
+               <signed>Your obliged Sonne in Law <hi>John Ronſgore.</hi>
+               </signed>
+               <dateline>
+                  <date>16. July. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
